@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Test app",
+    "icon": "./assets/logo.png",
+    "version": "1.0.0",
+    "slug": "test-app",
+    "ios": {
+      "bundleIdentifier": "ga.patogordo.app",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "ga.patogordo.app",
+      "versionCode": 1
+    }
+  }
+}
